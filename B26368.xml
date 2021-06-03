@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Nevvest intelligence from the army in Ireland in tvvo letters the one from the apothecary, formerly to the late Earl of Strafford, now to the said armie : and the other from a good hand, both dated in Dublin, Febr. 1, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26368</idno><idno type="EEBO-CITATION">12184492</idno>
+  <idno type="VID">197052</idno>
+  <idno type="EEBO-PROQUEST">2240949481</idno>
+  
+            <idno type="STC">Wing L3571A</idno>
+            <idno type="OCLC">12184492</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E89, no 31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Nevvest intelligence from the army in Ireland in tvvo letters the one from the apothecary, formerly to the late Earl of Strafford, now to the said armie : and the other from a good hand, both dated in Dublin, Febr. 1, 1642.</title>
+                  <author>Lynne, M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>February 17, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to M. Lynne by Wing.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197052:1"/>
+            <p>THE NEVVEST INTELLIGENCE FROM THE ARMY IN <hi>IRELAND.</hi>
+            </p>
+            <p>IN TVVO LETTERS: The one from the Apothecary (former<g ref="char:EOLhyphen"/>ly to the late Earl of <hi>Strafford</hi>) now to the said ARMIE.</p>
+            <p>And the other from a good Hand.</p>
+            <p>Both dated in Dublin, <hi>Febr.</hi> 1. 1642.</p>
+            <p>
+               <hi>LONDON:</hi> Printed <hi>February</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197052:2"/>
+            <pb n="1" facs="tcp:197052:2"/>
+            <opener>
+               <dateline>Dublin <date>February 1. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have had hopes every wind would have brought us the glad tydings of a Peace be twixt King and Parliament, now we are left to our selves to stand or fall, our Army is and hath been much discontented for want of pay, and Officers going over continually from us, yet amidst all these feares, wants, and trou<g ref="char:EOLhyphen"/>bles, the Lord hath not forsaken us, he still goes out with our Armies, and fights our Bat<g ref="char:EOLhyphen"/>tailes, and blesseth us beyond expectation: the Lord blesse our Army that went eight dayes since to relieve <hi>Athlone</hi> in <hi>Connaught,</hi> some fiftie miles from us, lately Generall <hi>Preston,</hi> who com<g ref="char:EOLhyphen"/>mands the Rebells forces, hath taken a Towne called the <hi>Burre</hi> or <hi>Parsons Towne,</hi> being remote from us, and never relieved but once since the Rebellion, where were eight hundred persons, men, women, and children, who fought eight
+<pb n="2" facs="tcp:197052:3"/>dayes with the Rebells, and then approaches came neere to the walls, being no remedie, they had good Quarter; halfe their goods, money, plate, &amp;c. and so are come to us: but it is re<g ref="char:EOLhyphen"/>ported, that Generall <hi>Preston</hi> intends to fight with our men (who are neere a thousand horse and foot) the Lord blesse them. Lately we re<g ref="char:EOLhyphen"/>ceived ill Newes for us from the King, <hi>viz.</hi> a Commission from the King to Treat with the Rebells, to heare the grievances: which cau<g ref="char:EOLhyphen"/>seth great discontent amongst us, and will, we feare, be the utter undoing of us: We are in great want, provision very scant: Our Armie of sea<g ref="char:EOLhyphen"/>ven hundred horse and foot, going a Cow-catch<g ref="char:EOLhyphen"/>ing into <hi>Wicklow</hi> amongst the mountaines and bogges, brought us home three thousand sheep, and six hundred head of Cattle, to the great joy of us all; Fresh-meate being wondrous scant; a quarter of small Mutton at ten shillings, egges two pence a piece, and so all other things rata<g ref="char:EOLhyphen"/>bly.</p>
+            <p>Now the Lord <hi>Lyle,</hi> and Coronell <hi>Muncke,</hi> have undertaken to maintaine two thousand men abroad in the Rebells Countrey, and put the State to no charges, but the setting of them
+<pb n="3" facs="tcp:197052:3"/>forth, and so to remaine out all this Summer, which they may doe: they are providing for it, and hand-Mills are making to grinde Corne for their men, and other things necessary for them: This designe many are against, and would hin<g ref="char:EOLhyphen"/>der it, if they could: We are afraid this Treatie of peace will hinder it, No peace, no peace, to these rebellious Miscreants: This is our estate for the present: The Lord send you an end, which we feare are but begun.</p>
+         </div>
+         <div type="letter">
+            <head>Another from Dublin, <date>Feb. 1. 1642.</date>
+            </head>
+            <p>I Cannot but let you know our present misery, our Magazine for the Armie is almost spent, our money quite gone; no pay for Souldiers, but what we (more then halfe pillaged people) doe weekly pay; and the Merchants that have corne and herrings, deliver in; our plate (what is not sold) halfe is to be given in, and the rest, I sup<g ref="char:EOLhyphen"/>pose, will shortly be cald for; and the next will be worse. The Enemy hath gotten the <hi>Burre</hi> from our men, but have given them a faire quar<g ref="char:EOLhyphen"/>ter; some report that they are come away with
+<pb n="4" facs="tcp:197052:4"/>half their money; it is thought there was not so little as 20000 li. in money there, all was lost for want of reliefe. I wrote you in my last, about 14. dayes since, that Colonell <hi>Gibson,</hi> and Colonell <hi>Crafford,</hi> were abroad with 500. men, or therea<g ref="char:EOLhyphen"/>bouts, each, and their Armies went two wayes; Colonell <hi>Gibson</hi> about the Countrey of <hi>Kildare,</hi> and that way; and returned home the 18. <hi>Jannar.</hi> without doing any thing; and Colonell <hi>Crafford</hi> came home the 20. out of the County of <hi>Wicklow,</hi> bringing with him 5. or 600 Cowes, and 2000. sheepe, he got that journey which he spent, and brought home at twice (it is thought) neer 5000 sheepe from the Rebells: Never had battell with the Rebells, although their Army being about 700. Musketiers, 300. pike, and 300. horse, as it is reported, being often in sight of our Army, but as I am informed, they appointed a day to fall on our army suddenly, which was under command of Collonell <hi>Crafford,</hi> (for Colonell <hi>Gibson</hi> was far from him) but the night before (unawares to our Army) they were drawne very neer, and lay all within a small compasse together, and Cap<g ref="char:EOLhyphen"/>tain <hi>Devalier</hi> with some 18. horse went forth and came in the morning on a Towne where were
+<pb n="5" facs="tcp:197052:4"/>300. foot, besides horse, of the Rebels that lodg'd there, and coming unawares (for they had no Sentinels abroad because they knew their plot was not known to our men) fell upon the town, and as many as could got away, sup<g ref="char:EOLhyphen"/>posing all our souldiers were come upon them: but find<g ref="char:EOLhyphen"/>ing the contrary, returned; notwithstanding Captaine <hi>Devalier</hi> got 5. or 6. good horses sadled with their hol<g ref="char:EOLhyphen"/>sters but not their pistols, and kild some men, and took a prisoner or 2. which told him all their plot; after that they were discouraged from giving battell to our men, had not God wrought his work, our army had been in<g ref="char:EOLhyphen"/>dangered, and the last prey of cattell been lost. Collon. <hi>Crafford</hi> sent most of his men home, before he came him<g ref="char:EOLhyphen"/>self, and the report was that he was coming himself: but in the night he and some 150. horse and foot, got to Sir <hi>John Hoys</hi> house, which the Rebels espied, but assoone as he and the foot were gotten in, he caused all the Mus<g ref="char:EOLhyphen"/>ketiers to cut off a part of their lighted matches, &amp; gave to the Troopers, and they marcht away with them bur<g ref="char:EOLhyphen"/>ning in their hands, whereby the Rebels thought they were all gone, whereupon divers came to that house, and still as they came in they were cut off by our Soul<g ref="char:EOLhyphen"/>diers there, so they were not discovered; so that all the cattell which they had sent over the River of <hi>Arklowe</hi> into the County of <hi>Welford</hi> for safety, they brought back again to feed in the County of <hi>Wicklowe,</hi> but the next night after came back again Captain <hi>Marrow</hi> with his troop toward the River of <hi>Arklow,</hi> and Col. <hi>Crafford</hi> from Sir <hi>John Hoyes</hi> house made forward the same way; coming very early in the morning towards <hi>Arklowe</hi> ri<g ref="char:EOLhyphen"/>ver they found the cattell that last c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me home, which was a great releef for the present, but that plentie is al<g ref="char:EOLhyphen"/>most
+<pb n="6" facs="tcp:197052:5"/>forgotten, being so many mouthes that gapt for it; God knows what we shall do hereafter; I doubt not but others have written of our present estate, but the future is like to be worse God knows. The 25. went forth a Convoy to releeve my Lord President of <hi>Connoght,</hi> and to bring home what men are left alive, onely they will leave a small Garrison in the Castle of <hi>Athlowe,</hi> with my Lord, as many as may onely keep the Castle.</p>
+            <p>Our Armie went forth hence not above 500. foot, and 150. horse, but some say that they were to have more men by the way from our garrison at <hi>Trym,</hi> they have a great charge with them of Ammunition, I pray God send them his speciall help from the Enemie, they are much to be fear'd, Generall <hi>Preston</hi> being so strong at the <hi>Burr;</hi> I should think our miserie should move <hi>England</hi> to make peace, sure I am that there is (in some that hinder it) a good affection to the <hi>Irish</hi> Rebellion; I pray God their counsell may not be followed, it is an easie matter to deceive an honest heart, who think others like himself: we are much annoyed by the Rebels that lie at <hi>Manoth,</hi> in sight of <hi>Kildares</hi> Castle, and in the woods about it, we hear that Generall <hi>Preston</hi> hath sent up 1000. men to assist them that had it before, and to have the charge of that place (being but 10. miles from this place) but our Welch that hath kept it before, will not part with it to the Generals men, upon which there is some discord between them; In the meane time (had not this ill news come from <hi>England</hi>) our army should have this day gone thither to take up the matter, for it is good fishing in troubled waters; we had need make better use of our time then we have hitherto done.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
